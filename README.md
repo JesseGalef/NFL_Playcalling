@@ -45,7 +45,7 @@ Much better! They're not all this dramatic, but lead was the strongest confoundi
 
 So, now that we've done what we can to balance the groups, do coaches still call rushing plays on 2nd and 10 more often after 1st down passes than after rushes? In a word, yes. 
 
-![playcall_split](data/Playcall_Split.png) 
+![playcall_split](data/Playcall_split.png) 
 
 In fact, the pattern is even stronger after controlling for game situation. It turns out that the biggest factor was the score (especially when time was running out.) A losing team needs to be passing the ball more often to try to come back, so their 2nd and 10 situations are more likely to follow passes on 1st down. If those teams are *still* calling rushing plays often, it's even more evidence that something strange is going on. Ok, so controlling for game situation doesn't explain away the spike in rushing percent at 2nd and 10\. Is it due to coaches' impulse to alternate their play calling? Maybe, but that can't be the whole story. If it were, I would expect to see the trend consistent across different 2nd down scenarios. But when we look at all 2nd-down distances, not just 2nd and 10, we see something else: 
 
